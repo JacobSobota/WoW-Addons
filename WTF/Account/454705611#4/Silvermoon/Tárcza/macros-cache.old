@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "Stance" "4667426"
+#showtooltip
+/castsequence !Defensive Stance, !Battle Stance
+END

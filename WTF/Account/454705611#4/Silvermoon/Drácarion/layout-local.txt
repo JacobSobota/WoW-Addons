@@ -1,0 +1,15 @@
+Version: 1
+Frame: PluginInstallFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 516
+Y: 55
+W: 550
+H: 400
+Frame: ColorPickerFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 0
+Y: 0
+W: 388
+H: 250

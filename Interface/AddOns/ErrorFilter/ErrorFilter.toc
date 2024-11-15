@@ -1,0 +1,14 @@
+## Interface: 11503, 30403, 40400, 110002
+## IconTexture: Interface\AddOns\ErrorFilter\Artwork\logo.tga
+## Title: ErrorFilter
+## Notes: Filters the errors displayed in the UIErrorsFrame.
+## Version: v3.11
+## Author: iceeagle
+## OptionalDeps: Ace3, LibSink-2.0
+## SavedVariables: ErrorFilterDB
+## DefaultState: enabled
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: Delayed
+
+ErrorFilter.xml

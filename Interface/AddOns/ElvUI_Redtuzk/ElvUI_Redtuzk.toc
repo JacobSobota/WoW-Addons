@@ -1,0 +1,18 @@
+## Interface: 110002
+## Author: Redtuzk
+## Version: 2.0.0
+## Title: |cff1784d1ElvUI|r |cfd9b9b9bRedtuzk|r
+## Notes: Contains profile layouts designed by Redtuzk
+## RequiredDeps: ElvUI
+## DefaultState: enabled
+
+media\load_media.xml
+Core.lua
+ElvUI_Settings.lua
+Details_Settings.lua
+Plater_Settings.lua
+BigWigs_Settings.lua
+RedtuzkAuras.lua
+InstallerData.lua
+media\FPS.lua
+media\Ping.lua

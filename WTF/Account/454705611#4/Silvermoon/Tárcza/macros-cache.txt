@@ -1,0 +1,27 @@
+VER 3 0100000000000007 "Avatar" "613534"
+#showtooltip 
+/cast Avatar
+/cast [@player] Ravager
+END
+VER 3 0100000000000002 "Charge" "132337"
+#showtooltip Charge
+/cast [target=mouseover,help,exists,nodead]Intervene;Intervene
+/cast [target=target,harm,exists,nodead]Charge;Charge
+END
+VER 3 0100000000000004 "Ignore Pain" "1377132"
+#showtooltip Ignore Pain
+/cast Ignore Pain
+/cast Shield Slam
+END
+VER 3 0100000000000003 "Leap" "236171"
+#showtooltip 
+/cast [@cursor] Heroic Leap
+END
+VER 3 0100000000000006 "Ravager" "970854"
+#showtooltip 
+/cast [@player] Ravager
+END
+VER 3 0100000000000005 "Spear" "6035322"
+#showtooltip
+/cast [@player] Champion's Spear
+END

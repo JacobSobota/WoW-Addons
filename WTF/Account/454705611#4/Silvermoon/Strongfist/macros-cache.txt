@@ -1,0 +1,48 @@
+VER 3 0100000000000012 "Beacon" "236247"
+#showtooltip
+/cast [@mouseover, exists] [] Beacon of Light
+END
+VER 3 0100000000000013 "Bless" "3636845"
+#showtooltip
+/cast [@mouseover, exists] [] Blessing of Summer(Night Fae)
+END
+VER 3 010000000000000F "BoF" "135968"
+#showtooltip
+/cast [@mouseover, exists] [] Blessing of Freedom
+END
+VER 3 010000000000000D "BoP" "135964"
+#showtooltip
+/cast [@mouseover, exists] [] Blessing of Protection
+END
+VER 3 010000000000000E "BoS" "135966"
+#showtooltip
+/cast [@mouseover, exists] [] Blessing of Sacrifice
+END
+VER 3 0100000000000014 "Faith" "1030095"
+#showtooltip
+/cast [@mouseover, exists] [] Beacon of Faith
+END
+VER 3 010000000000000C "flash" "135907"
+#showtooltip
+/cast [@mouseover, exists] [] Flash of Light
+END
+VER 3 0100000000000011 "Glory" "133192"
+#showtooltip
+/cast [@mouseover, exists] [] Word of Glory
+END
+VER 3 0100000000000010 "Lay" "135928"
+#showtooltip
+/cast [@mouseover, exists] [] Lay on Hands
+END
+VER 3 0100000000000016 "Light" "135981"
+#showtooltip
+/cast [@mouseover, exists] [] Holy Light
+END
+VER 3 0100000000000017 "Prism" "613408"
+#showtooltip
+/cast [@mouseover, exists] [] Holy Prism
+END
+VER 3 0100000000000015 "Shock" "135972"
+#showtooltip
+/cast [@mouseover, exists] [] Holy Shock
+END

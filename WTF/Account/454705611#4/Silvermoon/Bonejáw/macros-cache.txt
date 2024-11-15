@@ -1,0 +1,74 @@
+VER 3 0100000000000001 "Boost" "135372"
+#showtooltip Empower Rune Weapon
+/cast Empower Rune Weapon
+/cast Raise Dead
+/cast Ancestral Call(Racial)
+/use 13
+/use 14
+END
+VER 3 0100000000000002 "D&D" "136144"
+#showtooltip Death and Decay
+/cast [mod:ctrl, @cursor] Death and Decay; [@player] Death and Decay
+END
+VER 3 0100000000000005 "FS" "237520"
+#showtooltip Frost Strike
+/cast Pillar of Frost
+/cast Raise Dead
+/cast Ancestral Call(Racial)
+/cast Frost Strike
+/cast Empower Rune Weapon
+/use 13
+/use 14
+END
+VER 3 010000000000000D "Fury" "341980"
+#showtooltip Frostwyrm's Fury
+/cast Pillar of Frost
+/cast Raise Dead
+/cast Ancestral Call(Racial)
+/cast Empower Rune Weapon
+/cast Frostwyrm's Fury
+/use 13
+/use 14
+END
+VER 3 0100000000000007 "HB" "135833"
+#showtooltip Howling Blast
+/cleartarget [dead][noharm]
+/target [dead][noharm]
+/cast Pillar of Frost
+/cast Raise Dead
+/cast Ancestral Call(Racial)
+/cast Howling Blast
+/cast Empower Rune Weapon
+/use 13
+/use 14
+END
+VER 3 0100000000000006 "Obli" "135771"
+#showtooltip Obliterate
+/cast Pillar of Frost
+/cast Raise Dead
+/cast Ancestral Call(Racial)
+/cast Obliterate
+/cast Empower Rune Weapon
+/use 13
+/use 14
+END
+VER 3 010000000000000C "RM" "5927621"
+#showtooltip Reaper's Mark
+/cast Pillar of Frost
+/cast Raise Dead
+/cast Ancestral Call(Racial)
+/cast Reaper's Mark
+/cast Empower Rune Weapon
+/use 13
+/use 14
+END
+VER 3 010000000000000E "Scythe" "1060569"
+#showtooltip Frostscythe
+/cast Pillar of Frost
+/cast Raise Dead
+/cast Ancestral Call(Racial)
+/cast Frostscythe
+/cast Empower Rune Weapon
+/use 13
+/use 14
+END

@@ -1,0 +1,19 @@
+## Interface: 40400
+## Author: Redtuzk
+## Version: 2.0.0
+## Title: |cff1784d1ElvUI|r |cfd9b9b9bRedtuzk|r|cffff6105 Cata|r
+## Notes: RedtuzkUI profile and custom media for use in ElvUI
+## RequiredDeps: ElvUI
+## DefaultState: enabled
+
+media\load_media.xml
+Core.lua
+ElvUI_Settings.lua
+Details_Settings.lua
+Plater_Settings.lua
+BigWigs_Settings.lua
+RedtuzkAuras.lua
+InstallerData.lua
+media\FPS.lua
+media\Ping.lua
+media\Durability.lua

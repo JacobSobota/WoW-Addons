@@ -1,0 +1,12 @@
+
+PawnOptions = {
+["LastVersion"] = 2.1001,
+["LastPlayerFullName"] = "Glazur-Silvermoon",
+["AutoSelectScales"] = true,
+["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+["LastClass"] = "PALADIN",
+["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

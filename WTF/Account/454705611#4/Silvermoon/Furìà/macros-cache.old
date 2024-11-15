@@ -1,0 +1,60 @@
+VER 3 010000000000000F "AMZ" "237510"
+#showtooltip Anti-Magic Zone
+/cast [mod:ctrl, @cursor] Anti-Magic Zone; [@player] Anti-Magic Zone
+END
+VER 3 0100000000000010 "BoS" "1029007"
+#showtooltip Breath of Sindragosa
+/cast !Breath of Sindragosa
+/cast Empower Rune Weapon
+END
+VER 3 0100000000000002 "D&D" "136144"
+#showtooltip Death and Decay
+/cast [mod:ctrl, @cursor] Death and Decay; [@player] Death and Decay
+END
+VER 3 0100000000000005 "FS" "237520"
+#showtooltip Frost Strike
+/cast Pillar of Frost
+/cast  Raise Dead
+/cast  Ancestral Call(Racial)
+/use 13
+/use 14
+/cast Frost Strike
+END
+VER 3 010000000000000D "Fury" "341980"
+#showtooltip Frostwyrm's Fury
+/cast Pillar of Frost
+/cast Raise Dead
+/cast Ancestral Call(Racial)
+/use 13
+/use 14
+/cast Frostwyrm's Fury
+END
+VER 3 0100000000000007 "HB" "135833"
+#showtooltip Howling Blast
+/cleartarget [dead][noharm]
+/target [dead][noharm]
+/cast Pillar of Frost
+/cast Raise Dead
+/cast Ancestral Call(Racial)
+/cast Howling Blast
+/use 13
+/use 14
+END
+VER 3 0100000000000006 "Obli" "135771"
+#showtooltip Obliterate
+/cast Pillar of Frost
+/cast Raise Dead
+/cast Ancestral Call(Racial)
+/use 13
+/use 14
+/cast Obliterate
+END
+VER 3 010000000000000C "RM" "5927621"
+#showtooltip Reaper's Mark
+/cast Pillar of Frost
+/cast Raise Dead
+/cast Ancestral Call(Racial)
+/use 13
+/use 14
+/cast Reaper's Mark
+END

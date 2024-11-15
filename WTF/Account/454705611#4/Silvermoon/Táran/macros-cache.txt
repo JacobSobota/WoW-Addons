@@ -1,0 +1,20 @@
+VER 3 0100000000000005 "ironbark" "572025"
+#showtooltip
+/cast [target=mouseover,help] Ironbark; [help] Ironbark; Ironbark
+END
+VER 3 0100000000000004 "lifebloom" "134206"
+#showtooltip
+/cast [target=mouseover,help] Lifebloom; [help] Lifebloom; Lifebloom
+END
+VER 3 0100000000000001 "regrowth" "136085"
+#showtooltip
+/cast [target=mouseover,help] Regrowth; [help] Regrowth; Regrowth
+END
+VER 3 0100000000000002 "rejuvenation" "136081"
+#showtooltip
+/cast [target=mouseover,help] Rejuvenation; [help] Rejuvenation; Rejuvenation
+END
+VER 3 0100000000000003 "swift" "134914"
+#showtooltip
+/cast [target=mouseover,help] Swiftmend; [help] Swiftmend; Swiftmend
+END

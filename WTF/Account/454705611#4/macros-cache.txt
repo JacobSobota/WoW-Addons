@@ -1,0 +1,21 @@
+VER 3 0000000000000001 "throw" "1305159"
+#showtooltip Throw Glaive
+/cast [@mouseover, harm, nodead][harm,nodead] Throw Glaive
+END
+VER 3 0000000000000002 "ZygorAction1" "134327"
+#showtooltip Talk to Chromie
+/run ZGV:MCM(4)
+/cleartarget
+/target Chromie
+/run ZGV:MRM()
+END
+VER 3 0000000000000003 "ZygorAction2" "134400"
+END
+VER 3 0000000000000004 "ZygorAction3" "134400"
+END
+VER 3 0000000000000005 "ZygorAction4" "134400"
+END
+VER 3 0000000000000006 "ZygorAction5" "134400"
+END
+VER 3 0000000000000007 "ZygorAction6" "134400"
+END

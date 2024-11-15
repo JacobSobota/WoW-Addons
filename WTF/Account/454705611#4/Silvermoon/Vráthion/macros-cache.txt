@@ -1,0 +1,67 @@
+VER 3 010000000000000B "AMZ" "237510"
+#showtooltip
+/cqs
+/cast [@player] Anti-Magic Zone
+END
+VER 3 010000000000000A "DnD" "136144"
+#showtooltip
+/cast [@player] Death and Decay
+END
+VER 3 0100000000000004 "Frost Strike" "237520"
+#showtooltip Frost Strike
+/cqs
+/cast Pillar of Frost
+/cast Empower Rune Weapon
+/cast !Frost Strike
+/cast Raise Dead
+END
+VER 3 0100000000000007 "FS" "879926"
+#showtooltip Festering Strike
+/use 13
+/use 14
+/cast Festering Strike
+END
+VER 3 0100000000000009 "grip" "237532"
+#showtooltip Death Grip
+/stopattack
+/cast [@mouseover,exists,harm][@target,exists,harm] Death Grip
+END
+VER 3 0100000000000002 "Heal" "136168"
+#showtooltip Sacrificial Pact
+/cast Raise Dead
+/cast Sacrificial Pact
+END
+VER 3 0100000000000005 "Howling Blast" "135833"
+#showtooltip Howling Blast
+/cqs
+/cast Pillar of Frost
+/cast Empower Rune Weapon
+/cast !Howling Blast
+/cast Raise Dead
+END
+VER 3 0100000000000008 "MF" "237527"
+#showtooltip Mind Freeze
+/cast [@mouseover,exists,harm][@target,exists,harm] Mind Freeze
+END
+VER 3 0100000000000001 "Obliterate" "135771"
+#showtooltip Obliterate
+/cqs
+/cast Pillar of Frost
+/cast Empower Rune Weapon
+/cast !Obliterate
+/cast Raise Dead
+END
+VER 3 010000000000000C "Remorsless" "538770"
+#showtooltip Remorseless Winter
+/cqs
+/cast Pillar of Frost
+/cast Empower Rune Weapon
+/cast !Remorseless Winter
+/cast Raise Dead
+END
+VER 3 0100000000000006 "SS" "237530"
+#showtooltip Scourge Strike
+/use 13
+/use 14
+/cast Scourge Strike
+END

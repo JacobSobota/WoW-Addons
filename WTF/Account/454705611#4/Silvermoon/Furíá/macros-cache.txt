@@ -1,0 +1,16 @@
+VER 3 0100000000000006 "es" "3565443"
+#showtooltip
+/cast [@cursor] Elysian Decree
+END
+VER 3 0100000000000003 "meta" "1247263"
+#showtooltip
+/cast [@cursor] Metamorphosis
+END
+VER 3 0100000000000005 "mis" "1418287"
+#showtooltip
+/cast [@cursor] Sigil of Misery
+END
+VER 3 0100000000000004 "Sigil" "1344652"
+#showtooltip
+/cast [@player] Sigil of Flame
+END

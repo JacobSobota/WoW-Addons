@@ -1,0 +1,60 @@
+VER 3 0100000000000001 "Boost" "135372"
+#showtooltip Empower Rune Weapon
+/cast Empower Rune Weapon
+/cast Raise Dead
+/cast Ancestral Call(Racial)
+END
+VER 3 0100000000000002 "D&D" "136144"
+#showtooltip Death and Decay
+/cast [mod:ctrl, @cursor] Death and Decay; [@player] Death and Decay
+END
+VER 3 0100000000000009 "D&DU" "1029008"
+#showtooltip Defile
+/cast [mod:ctrl, @cursor] Defile; [@player] Defile
+END
+VER 3 0100000000000008 "DT" "342913"
+#showtooltip Dark Transformation
+/cast Claw
+/cast Dark Transformation
+/use Blood Fury
+END
+VER 3 0100000000000005 "FS" "237520"
+#showtooltip Frost Strike
+/cast Pillar of Frost
+/cast Raise Dead
+/cast Frost Strike
+/cast Rune Weapon
+END
+VER 3 010000000000000A "FS" "879926"
+#showtooltip Festering Strike
+/cast Ancestral Call(Racial)
+/cast Festering Strike
+END
+VER 3 0100000000000007 "HB" "135833"
+#showtooltip Howling Blast
+/cleartarget [dead][noharm]
+/target [dead][noharm]
+/cast Pillar of Frost
+/cast Raise Dead
+/cast Howling Blast
+/cast Rune Weapon
+END
+VER 3 0100000000000006 "Obli" "135771"
+#showtooltip Obliterate
+/cast Pillar of Frost
+/cast Raise Dead
+/cast Obliterate
+/cast Rune Weapon
+END
+VER 3 010000000000000C "RM" "5927621"
+#showtooltip Reaper's Mark
+/cast Pillar of Frost
+/cast Raise Dead
+/cast Reaper's Mark
+/cast Rune Weapon
+END
+VER 3 010000000000000B "SS" "237530"
+#showtooltip Scourge Strike
+/cast Ancestral Call(Racial)
+/cast Scourge Strike
+END

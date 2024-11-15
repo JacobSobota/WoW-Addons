@@ -1,0 +1,10 @@
+lightweight tag 6dd4cf92c5e0ea3765dc8ebbe9de244d0320d9fd v3.11
+Author:	iceeagle <ciprianmihai.coman@gmail.com>
+Date:	Sun Aug 25 13:29:44 2024 +0300
+
+commit 6dd4cf92c5e0ea3765dc8ebbe9de244d0320d9fd
+Author: iceeagle <ciprianmihai.coman@gmail.com>
+Date:   Sun Aug 25 13:29:44 2024 +0300
+
+    fix links to option frames
+
